@@ -58,8 +58,9 @@ sudo apt-get install onlyoffice-documentserver
 
 ## 7. Åben ONLYOFFICE
 
-```
+```bash
 http://<ip>/
+```
 
 ---
 
